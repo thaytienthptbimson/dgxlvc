@@ -1,0 +1,8 @@
+{
+  "appId": "vn.edu.dgxlvc",
+  "appName": "DGXLVC",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
